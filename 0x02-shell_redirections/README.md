@@ -1,1 +1,1 @@
-Shell,redireectory and filters
+Shells,redirection and filters
