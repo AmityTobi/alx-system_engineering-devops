@@ -1,2 +1,2 @@
 #!/bin/bash
-less head --lines=3 iacta | tail --lines = 1
+cat head --lines=3 ./iacta | tail --lines = 1
